@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a focus on ful
 
 ### 🛠️ Skills
 - **Languages:** Python, JavaScript, TypeScript
-- **Frameworks & Libraries:** Django, React, Tailwind CSS, FastAPI
+- **Frameworks & Libraries:** Django, React, Tailwind CSS, Django Rest, FastAPI
 - **Databases:** SQL, MongoDB
 - **Tools & Platforms:** AWS, Git, Docker, Nginx
 
