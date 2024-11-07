@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a focus on ful
 - 🌱 I’m continuously learning about advanced concepts in Django, React, and cloud technologies like AWS.
 - 💻 I work primarily with Python, Django, JavaScript, React, and TypeScript.
 - 🌍 I'm based in Bangladesh, aiming to pursue a degree in Computer Science and Engineering (CSE) in Denmark.
-- 📫 How to reach me: [Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/shakib/)
+- 📫 How to reach me: [Email](dev.shakib@outlook.com) | [LinkedIn]([https://www.linkedin.com/in/shakib/](https://www.linkedin.com/in/sheikh-shamiul-834878206/))
 
 ### 🛠️ Skills
 - **Languages:** Python, JavaScript, TypeScript
