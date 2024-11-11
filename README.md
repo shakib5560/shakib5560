@@ -1,40 +1,55 @@
-# Hi there, I'm Shakib 👋
+# 💻 Sheikh Shamiul Shakib
 
-Welcome to my GitHub profile! I'm a passionate web developer with a focus on full-stack development using modern technologies. With a strong background in Python and JavaScript, I enjoy building efficient, scalable web applications and solving complex problems.
+**Enthusiastic Django Full Stack Web Developer**  
+... skilled in building scalable, responsive applications. Strong foundation in Python, data structures, and OOP principles, along with expertise in Django’s project setup, URL routing, ORM-based models, and authentication. Frontend skills include HTML, CSS, JavaScript, and Tailwind CSS, ensuring clean, user-friendly interfaces. Proficient in React and TypeScript, with a focus on modular components, REST API integration, and state management using Redux and Context API. Experienced in SQL and NoSQL databases like MySQL, PostgreSQL, and MongoDB. Confident in version control with Git and GitHub, promoting seamless collaboration. Additional skills in graphic design (Photoshop, Figma) allow for a strong UI/UX approach. Known for effective time management and a detail-oriented approach to delivering polished, high-quality work.
 
-### 🚀 About Me
-- 🔭 I’m currently working on [CarHub-Multi-Vendor-eCommerce-website]([https://github.com/shakib5560/RecipeBlog](https://github.com/shakib5560/CarHub-Multi-Vendor-eCommerce-website-by-React-TS)), a project that helps users manage and share recipes.
-- 🌱 I’m continuously learning about advanced concepts in Django, React, and cloud technologies like AWS.
-- 💻 I work primarily with Python, Django, JavaScript, React, and TypeScript.
-- 🌍 I'm based in Bangladesh, aiming to pursue a degree in Computer Science and Engineering (CSE) in Denmark.
-- 📫 How to reach me: [Email](dev.shakib@outlook.com) | [LinkedIn]([https://www.linkedin.com/in/shakib/](https://www.linkedin.com/in/sheikh-shamiul-834878206/))
+[GitHub](https://github.com/shakib5560) | [Email](mailto:dev.shakib@outlook.com) | +8801771659336
 
-### 🛠️ Skills
-- **Languages:** Python, JavaScript, TypeScript
-- **Frameworks & Libraries:** Django, React, Tailwind CSS, Django Rest, FastAPI
-- **Databases:** SQL, MongoDB
-- **Tools & Platforms:** AWS, Git, Docker, Nginx
+---
 
-### 📈 GitHub Stats
+## 🔧 Technical Skills
 
-![Shakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakib5560&show_icons=true&hide_title=true&count_private=true&hide=prs)
+- **Backend**: Python, Django (URL Routing, ORM, Authentication), REST API Development
+- **Frontend**: HTML, CSS, JavaScript, Tailwind CSS
+- **Frameworks**: React (Components, Props, State, Hooks), TypeScript, Redux, Context API
+- **Database**: SQL, MySQL, SQLite, PostgreSQL, MongoDB
+- **Version Control**: Git, GitHub
+- **Design Tools**: Photoshop, Figma
 
-### 🌱 Currently Learning
-- Cloud architecture and DevOps tools (AWS, Docker)
-- Advanced React patterns and state management techniques
-- Deep diving into machine learning and AI with Python
+## 📚 Education
 
-### 🔗 Projects
-- [RecipeBlog](https://github.com/shakib5560/RecipeBlog) - A recipe management platform.
-- [FoodValy](https://github.com/shakib5560/RecipeBlog) - A food-related project with a restaurant theme.
-- [CarHub](https://github.com/shakib5560/CarHub) - A car listing platform with React and Django.
+- **Diploma in Arts (CSE)** - Gov’t Graphic Arts Institute
+- **The Full Stack Web dev** - by Meta
+coursera.org
+---
 
-### 👨‍💻 Check out my recent blog posts:
-<!-- Add links to blog posts or articles -->
-- [How to set up a Django project with Tailwind CSS](https://example.com)
-- [Building a recipe blog app with React and Django](https://example.com)
+## 📂 Notable Projects
 
-### 🤝 Let's connect!
-- [LinkedIn](https://www.linkedin.com/in/shakib/)
-- [Twitter](https://twitter.com/shakib)
+### [CarHub Multi-Vendor eCommerce Website](https://github.com/shakib5560/CarHub-Multi-Vendor-eCommerce-website-by-React-TS)
+Built a multi-vendor eCommerce platform with React and TypeScript, allowing multiple sellers to list/manage inventories. Includes product search, payment gateway, and order tracking.
 
+### [Bike Review’s Blog with Custom User Authentication](https://github.com/shakib5560/Bike-Review-s-Blog-with-Custom-User-Authentication-)
+A Django-based blog platform focused on bike reviews, featuring custom user authentication for secure login/registration and user-generated reviews and ratings.
+
+### [FoodSvaly](https://github.com/shakib5560/FoodSvaly)
+React-based food ordering platform offering a seamless interface for browsing and ordering menu items, with a user-friendly, engaging interface.
+
+### [RecipeBlog](https://github.com/shakib5560/RecipeBlog)
+Comprehensive recipe management application with Django and React, featuring user authentication, recipe search, and categorization, facilitating easy recipe discovery and sharing.
+
+---
+
+## 💼 Past Experience
+
+**WordPress Developer** at WpThemeFy.co.uk  
+- Designed websites and created WordPress templates for UK-based clients
+- Used tools like Elementor, Divi, and Oxygen  
+- Duration: 1 year (Freelance)  
+- Left to focus on learning new technologies (React, Django, SQL, etc.)
+
+---
+
+## 🏅 Additional Skills
+
+- **UI/UX**: Skilled in graphic design, with a strong eye for UI/UX (Photoshop, Figma)
+- **Soft Skills**: Effective time management, detail-oriented approach
