@@ -1,6 +1,6 @@
 # 💻 Sheikh Shamiul Shakib
 
-**Enthusiastic Django Full Stack Web Developer**  
+**Enthusiastic React Django Full Stack Web Developer**  
 ... skilled in building scalable, responsive applications. Strong foundation in Python, data structures, and OOP principles, along with expertise in Django’s project setup, URL routing, ORM-based models, and authentication. Frontend skills include HTML, CSS, JavaScript, and Tailwind CSS, ensuring clean, user-friendly interfaces. Proficient in React and TypeScript, with a focus on modular components, REST API integration, and state management using Redux and Context API. Experienced in SQL and NoSQL databases like MySQL, PostgreSQL, and MongoDB. Confident in version control with Git and GitHub, promoting seamless collaboration. Additional skills in graphic design (Photoshop, Figma) allow for a strong UI/UX approach. Known for effective time management and a detail-oriented approach to delivering polished, high-quality work.
 
 [GitHub](https://github.com/shakib5560) | [Email](mailto:dev.shakib@outlook.com) | +8801771659336
