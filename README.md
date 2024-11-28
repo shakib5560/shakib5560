@@ -29,12 +29,12 @@ coursera.org
 ## 📂 Notable Projects
 
 ### [LIST & LIVE)
-![Banner]([https://i.ibb.co.com/fdXHPjk/Screenshot-from-2024-11-28-19-50-50.png))
+![Banner](https://i.ibb.co.com/fdXHPjk/Screenshot-from-2024-11-28-19-50-50.png)
 LIST & LIVE will be the most powerful and visually stunning real estate multi-vendor platform in Bangladesh.
 Built with cutting-edge technologies like Django, Django Allauth, and React to deliver seamless no-load functionality, this platform is designed to revolutionize the real estate market.
 
 ### [ToyGalaxy)
-![Banner]([https://i.ibb.co.com/k9DZNqG/1732800544053.jpg))
+![Banner](https://i.ibb.co.com/k9DZNqG/1732800544053.jpg)
 Creating websites with the world's most powerful web technologies: Django and React. In my opinion, this is the ultimate stack for web development, offering scalability, performance, and flexibility.
 
 ### [Bike Review’s Blog with Custom User Authentication](https://github.com/shakib5560/Bike-Review-s-Blog-with-Custom-User-Authentication-)
