@@ -26,6 +26,21 @@
 coursera.org
 ---
 
+## CERTIFICATIONS
+- **Full Stack Developer Bootcamp by Meta -
+Coursera
+- **Blockchain Fundamentals, Dapp -
+SimpliLearn
+- **Crash Course on Python - Google
+- **Google Cybersecurity Professional
+- **Google IT Automation with Python
+  Professional Certificate - Coursera
+- **Google UX Design Professional Certificate
+  Coursera
+- **Google Data Analytics Professional
+  Certificate -Coursera
+
+
 ## 📂 Notable Projects
 
 ### [LIST & LIVE)
@@ -51,17 +66,18 @@ Comprehensive recipe management application with Django and React, featuring use
 ## 💼 Past Experience
 
 **React Developer Intern** at Technofy IT 
-• Learn TypeScript and React in depth, create custom hooks, and
+- **Learn TypeScript and React in depth, create custom hooks, and
 contribute to there open-source API projects.
-• Developed a dynamic frontend for ’CarHUB,’ a multi-vendor used car
+- **Developed a dynamic frontend for ’CarHUB,’ a multi-vendor used car
 selling website, using React, TypeScript, Shadcn, and Redux..
-• Developed reusable TypeScript components, improving codebase
+- **Developed reusable TypeScript components, improving codebase
 maintainability by 20%
 
 **WordPress Developer** at WpThemeFy.co.uk  
-• Designed and developed a eCommerce website (dog.com) using Divi
+- **Designed and developed a eCommerce website (dog.com) using Divi
 with a very responsive and clean UI and descent User Experience.
-• After launching the website, the customer base grew by 60% in the
+
+- **After launching the website, the customer base grew by 60% in the
 following month, generating $5.5k in revenue within just one
 month.
 
@@ -73,16 +89,3 @@ month.
 - **Soft Skills**: Effective time management, detail-oriented approach
 
 
-## CERTIFICATIONS
-• Full Stack Developer Bootcamp by Meta -
-Coursera
-• Blockchain Fundamentals, Dapp -
-SimpliLearn
-• Crash Course on Python - Google
-• Google Cybersecurity Professional
-• Google IT Automation with Python
-Professional Certificate - Coursera
-• Google UX Design Professional Certificate
--Coursera
-• Google Data Analytics Professional
-Certificate -Coursera
