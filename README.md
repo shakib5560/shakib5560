@@ -18,7 +18,7 @@
 
 ## 📚 Education
 
-- **Diploma in Arts (CSE)** - Gov’t Graphic Arts Institute
+- **Diploma in Arts (SE)** - Gov’t Graphic Arts Institute
 - **The Full Stack Web dev** - by Meta
 coursera.org
 ---
@@ -41,11 +41,20 @@ Comprehensive recipe management application with Django and React, featuring use
 
 ## 💼 Past Experience
 
+**React Developer Intern** at Technofy IT 
+• Learn TypeScript and React in depth, create custom hooks, and
+contribute to there open-source API projects.
+• Developed a dynamic frontend for ’CarHUB,’ a multi-vendor used car
+selling website, using React, TypeScript, Shadcn, and Redux..
+• Developed reusable TypeScript components, improving codebase
+maintainability by 20%
+
 **WordPress Developer** at WpThemeFy.co.uk  
-- Designed websites and created WordPress templates for UK-based clients
-- Used tools like Elementor, Divi, and Oxygen  
-- Duration: 1 year (Freelance)  
-- Left to focus on learning new technologies (React, Django, SQL, etc.)
+• Designed and developed a eCommerce website (dog.com) using Divi
+with a very responsive and clean UI and descent User Experience.
+• After launching the website, the customer base grew by 60% in the
+following month, generating $5.5k in revenue within just one
+month.
 
 ---
 
@@ -53,3 +62,18 @@ Comprehensive recipe management application with Django and React, featuring use
 
 - **UI/UX**: Skilled in graphic design, with a strong eye for UI/UX (Photoshop, Figma)
 - **Soft Skills**: Effective time management, detail-oriented approach
+
+
+## CERTIFICATIONS
+• Full Stack Developer Bootcamp by Meta -
+Coursera
+• Blockchain Fundamentals, Dapp -
+SimpliLearn
+• Crash Course on Python - Google
+• Google Cybersecurity Professional
+• Google IT Automation with Python
+Professional Certificate - Coursera
+• Google UX Design Professional Certificate
+-Coursera
+• Google Data Analytics Professional
+Certificate -Coursera
