@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/shakib5560/shakib5560/blob/main/HELLO.gif?raw=true)
+[![MasterHead](HELLO.gif)
 <h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co.com/pbRFsxG/Untitled-design-1.gif">
