@@ -4,7 +4,7 @@
 
 
 
-**Explore More About Me:**<p align="left"> <a href="https://www.linkedin.com/in/sheikh-shamiul-834878206/" target="blank"><img src="https://img.shields.io/badge/%40shamiul-shakib?style=for-the-badge" alt="sheikh-shamiul"  </p>
+**Explore More About Me:** <p align="left"> <a href="https://www.linkedin.com/in/sheikh-shamiul-834878206/" target="blank"><img src="https://img.shields.io/badge/%40shamiul-shakib?style=for-the-badge" alt="sheikh-shamiul"  </p>
 
 - 🔭 I’m currently working on [**ToyGalaxy**](https://github.com/shakib5560/ToyGalaxy)
 
