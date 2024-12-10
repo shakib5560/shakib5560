@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Backend(Django) , React**
+- 💬 Ask me about **Backend(Django, RESTful API) , Frontend(React, Next)**
 
-- 📫 How to reach me **dev.shakib@hotmail.com**
+- 📫 How to reach me **dev.shakib@outlook.com**
 
 - ⚡ Fact **I am passionate about learning the modern technologies. Particularly Web Technology.**
 
