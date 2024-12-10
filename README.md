@@ -20,10 +20,11 @@
 
 
 
-[![Dev.Shakib GitHub Activity Graph](https://activity-graph-url-here.svg)](https://github.com/shakib5560?tab=repositories)
+[![Dev.Shakib GitHub Activity Graph](https://github.com/shakib5560?tab=repositories)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakib5560&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shakib5560" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakib5560&show_icons=true&locale=en&theme=tokyonight" alt="shakib5560" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakib5560&&theme=tokyonight" alt="shakib5560" /></p>
+
