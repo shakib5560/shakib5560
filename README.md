@@ -20,7 +20,7 @@
 
 
 
-[![Dev.Shakib GitHub Activity Graph](https://github.com/shakib5560?tab=repositories)
+[**Dev.Shakib GitHub Activity Graph**](https://github.com/shakib5560?tab=repositories)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakib5560&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shakib5560" /></p>
 
