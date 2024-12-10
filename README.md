@@ -3,19 +3,18 @@
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co.com/pbRFsxG/Untitled-design-1.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
+<p align="left"> <a href="https://www.linkedin.com/in/sheikh-shamiul-834878206/" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="sheikh-shamiul"  </p>
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I’m currently working on [**ToyGalaxy**](https://github.com/shakib5560/ToyGalaxy)
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Backend(Django) , React**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 📫 How to reach me **dev.shakib@hotmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fact **I am passionate about learning the modern technologies. Particularly Web Technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
