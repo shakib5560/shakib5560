@@ -1,4 +1,4 @@
-<h1 align="center">I'm Sheikh Shamiul Shakib <br> <h3 align="center">Software Engineer | AI Prompt Expert | Skilled in Python, TypeScript, JS, Django, Next.js, FastAPI, T3 Stack. Web3 Enthusiast, Open to learn new Frameworks. Familiar with C++, Linux, DSA, System Design, Logic Design. UI/UX Design, Enjoys Teaching.</h3> </h1>
+<h1 align="center">I'm Sheikh Shamiul Shakib <br> <h3 align="center">Software Engineer | ML,AL Enthusiast | Skilled in Python, TypeScript, JS, Django, Next.js, FastAPI, T3 Stack. Web3 Enthusiast, Open to learn new Frameworks. Familiar with C++, Linux, DSA, System Design, Logic Design. UI/UX Design, Enjoys Teaching.</h3> </h1>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co.com/pbRFsxG/Untitled-design-1.gif">
 
 
