@@ -1,4 +1,4 @@
-<h1 align="center">I'm Sheikh Shamiul Shakib <br> <h3 align="center">Software Engineer | ML & AI Enthusiast | Proficient in Python, TypeScript, JavaScript | Experienced with Django, FastAPI, Next.js, T3 Stack | Web3 Explorer | Quick Learner & Framework-Agnostic | Familiar with C++, Linux, DSA, System Design, and Logic Design | Passionate about UI/UX and Teaching</h3> </h1>
+<h1 align="center">I'm Sheikh Shamiul Shakib <br> <h3 align="center">1.5+ years of production experience | Junior Software Engineer at DevNest | BSc (BTech) in CSE | Diploma (DTech) in GDSWT | Specialized in building fast, reliable, and user-centric full-stack web applications. With a solid foundation in system design and high-traffic handling, I help transform ideas into scalable solutions for businesses, startups, and product teams.</h3> </h1>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co.com/pbRFsxG/Untitled-design-1.gif">
 
 
