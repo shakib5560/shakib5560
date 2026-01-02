@@ -57,10 +57,10 @@
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/vultr/vultr-icon.svg" width="40"/>
+  <img src="https://images.icon-icons.com/2699/PNG/512/google_cloud_logo_icon_171058.png" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
 </p>
 
