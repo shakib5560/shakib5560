@@ -46,17 +46,24 @@
   <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width="65"/>
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
 </p>
 
+
 ### DevOps & Tools
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/vultr/vultr-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
 </p>
+
 
 ---
 
