@@ -1,49 +1,105 @@
-<h1 align="center">I'm Sheikh Shamiul Shakib <br> <h3 align="center">1.5+ years of production experience | Junior Software Engineer at DevNest | BSc (BTech) in CSE | Diploma (DTech) in GDSWT | Specialized in building fast, reliable, and user-centric full-stack web applications. With a solid foundation in system design and high-traffic handling, I help transform ideas into scalable solutions for businesses, startups, and product teams.</h3> </h1>
+# 👋 Hi, I’m **Sheikh Shamiul Shakib**
+### Software Engineer | Full-Stack Web Developer
 
-
-🌐 **Portfolio:** https://shakibcoder.netlify.app/
-
-<p align="left"> <a href="https://www.linkedin.com/in/sheikh-shamiul-834878206/" target="blank"><img src="https://img.shields.io/badge/%40shamiul-shakib?style=for-the-badge" alt="Linkedin Profile"  </p>
-
-- 🔭 I’m currently working on [**tubeX**](https://github.com/shakib5560/tubeX)
-
-- 🌱 I’m currently learning **DSA**
-
-- 💬 Ask me about **Backend(Django, RESTful API, FastAPI, Express JS, Node JS) , Frontend(React, Next JS)**
-
-- 📫 How to reach me **dev.shakib@outlook.com**
-
-- ⚡ Fact **I am passionate about learning the modern technologies. Particularly Web Technology.**
-
-<h3 align="left">Skills:</h3>
-<p align="left"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a> <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a> <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://images.ctfassets.net/5gydaotbo8jm/bUrTuQvSBfmiRK3aJTALa/86f4edd8a574ee1ead2ec372cf08f303/nextjs-boilerplate-logo.png" alt="Next.js" width="40" height="40"/></a> <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="Django" style="  margin-top: 10px; " width="65" height="65"/></a> <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBjbXwcjW7lVBJ6AdOSDiXKrc-op8UBAw4A&s" alt="Django Rest Framework" width="40" height="40"/></a> <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="40" height="40"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="AWS" width="40" height="40"/></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a></p>
-
-
-## 🚀 Featured Projects
-
-### ⭐️ Portfolio & Live Projects
-
-| Project | Description |
-|---------|-------------|
-| **tubeX** | REST API backend for a video sharing platform (Node.js + MongoDB). |
-| **ToyGalaxy** | Full-stack eCommerce app with Django & vanilla JS. |
-| **Rinors.com** | Multi-vendor eCommerce with Next.js & T3 Stack. |
-| **CarHub** | Frontend client for a car marketplace app. |
-| **ServicoBD** | AI-Powered Service Finder (full-stack). |
-| **List-Live** | Real estate platform (in progress). |
-| **FoodSvaly** | Food delivery app UI & logic. |
-| **career_z** | Career recommendation CLI using C++ & LLM integration. | :contentReference[oaicite:4]{index=4}
-
-You can see all source code and live demos on my GitHub and portfolio website.
+> **1.5+ years of production experience** building fast, scalable, and user-centric web applications.  
+> Specialized in **high-traffic backend systems**, clean APIs, and modern full-stack architectures.
 
 ---
 
+## 🔗 Connect With Me
+- 🌐 **Portfolio:** https://shakibcoder.netlify.app  
+- 📄 **Resume:** https://drive.google.com/file/d/1vR03EPZxzrd2GBHSK_smDaOXRAhVBOmt/view  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/sheikh-shamiul-834878206/  
+- 📧 **Email:** dev.shakib@outlook.com  
 
-[**Dev.Shakib GitHub Activity Graph**](https://github.com/shakib5560?tab=repositories)
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakib5560&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shakib5560" /></p>
+## 🧠 About Me
+- 🧑‍💻 Junior Software Engineer at **DevNest**
+- 🔭 Currently working on **[tubeX](https://github.com/shakib5560/tubeX)** (Scalable Video Platform Backend)
+- 🌱 Learning **Data Structures & Algorithms**
+- 💬 Ask me about **Backend (Django, DRF, FastAPI, Express, Node.js)** & **Frontend (React, Next.js)**
+- ⚡ Passionate about **system design, performance optimization, and clean architecture**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakib5560&show_icons=true&locale=en&theme=tokyonight" alt="shakib5560" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakib5560&&theme=tokyonight" alt="shakib5560" /></p>
+## 🛠️ Tech Stack
 
+### Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+</p>
+
+### Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://images.ctfassets.net/5gydaotbo8jm/bUrTuQvSBfmiRK3aJTALa/86f4edd8a574ee1ead2ec372cf08f303/nextjs-boilerplate-logo.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width="65"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|------|------------|
+| **tubeX** | Scalable REST API backend for a video-sharing platform (Node.js, MongoDB) |
+| **ToyGalaxy** | High-traffic eCommerce platform built with Django & JS (2,000+ daily users) |
+| **Rinors.com** | Multi-vendor eCommerce using Next.js T3 Stack |
+| **ServicoBD** | AI-powered service finder (Full-stack) |
+| **List-Live** | Real-estate platform (In Progress) |
+| **FoodSvaly** | Food delivery application (UI & business logic) |
+| **career_z** | CLI-based career recommendation system (C++ + LLM integration) |
+
+🔗 **More projects:** https://github.com/shakib5560
+
+---
+
+## 🧮 Competitive Programming & DSA
+- 🏆 Regional Programming Test Winner
+- ✅ HackerRank Certified – Python
+- 📘 Practicing:
+  - Arrays, Strings, Recursion
+  - Linked List, Stack, Queue
+  - Trees & Graphs
+  - Dynamic Programming
+  - Time & Space Optimization
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shakib5560&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakib5560&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakib5560&theme=tokyonight"/>
+</p>
+
+---
+
+## 🧩 Philosophy
+> *“Write code that scales, reads well, and solves real-world problems.”*
