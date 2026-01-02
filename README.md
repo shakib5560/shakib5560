@@ -1,5 +1,5 @@
 <h1 align="center">I'm Sheikh Shamiul Shakib <br> <h3 align="center">1.5+ years of production experience | Junior Software Engineer at DevNest | BSc (BTech) in CSE | Diploma (DTech) in GDSWT | Specialized in building fast, reliable, and user-centric full-stack web applications. With a solid foundation in system design and high-traffic handling, I help transform ideas into scalable solutions for businesses, startups, and product teams.</h3> </h1>
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co.com/pbRFsxG/Untitled-design-1.gif">
+
 
 🌐 **Portfolio:** https://shakibcoder.netlify.app/
 
