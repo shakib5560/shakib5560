@@ -95,18 +95,5 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakib5560&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakib5560&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakib5560&theme=tokyonight"/>
-</p>
-
----
-
 ## 🧩 Philosophy
 > *“Write code that scales, reads well, and solves real-world problems.”*
