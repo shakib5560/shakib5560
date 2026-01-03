@@ -96,4 +96,4 @@
 ---
 
 ## 🧩 Philosophy
-> *“Write code that scales, reads well, and solves real-world problems.”*
+> *“Write code that scales, reads well, and solves real world problems.”*
