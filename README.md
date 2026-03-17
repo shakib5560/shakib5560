@@ -16,7 +16,6 @@
  
 <br/>
  
-<!-- PROFILE VIEWS + STREAK -->
 ![Profile Views](https://komarev.com/ghpvc/?username=shakib5560&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/shakib5560?style=for-the-badge&logo=github&color=302b63&labelColor=0f0c29)](https://github.com/shakib5560)
  
@@ -24,9 +23,11 @@
  
 ---
  
-<!-- ABOUT ME SECTION -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="55%" />
+</div>
  
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="28"> About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
  
 ```python
 class Shakib:
@@ -41,15 +42,14 @@ class Shakib:
  
     def skills(self):
         return {
-            "backend":   ["Django", "DRF", "FastAPI", "Express", "Node.js", "NestJS"],
-            "frontend":  ["React", "Next.js", "Redux", "Tailwind CSS"],
-            "devops":    ["Docker", "AWS", "GCP", "DigitalOcean", "VPS", "CI/CD"],
-            "databases": ["PostgreSQL", "MySQL", "MongoDB"],
-            "tools":     ["n8n Automation", "Git", "Postman", "Figma"],
+            "backend":    ["Django", "DRF", "FastAPI", "Express", "Node.js", "NestJS"],
+            "frontend":   ["React", "Next.js", "Redux", "Tailwind CSS"],
+            "devops":     ["Docker", "AWS", "GCP", "VPS", "DigitalOcean", "CI/CD"],
+            "databases":  ["PostgreSQL", "MySQL", "MongoDB"],
+            "automation": ["n8n Workflow Automation"],
+            "tools":      ["Git", "Postman", "Figma"],
         }
 ```
- 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
  
 ---
  
@@ -82,42 +82,54 @@ class Shakib:
 <img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux,git&theme=dark" />
 </p>
  
-| Tool | Level |
-|------|-------|
-| 🐳 **Docker** | ████████░░ Intermediate |
-| ☁️ **AWS / GCP** | ██████░░░░ Intermediate |
-| 🌊 **DigitalOcean VPS** | ████████░░ Intermediate |
-| 🔁 **CI/CD Pipelines** | ██████░░░░ Basic–Mid |
-| 🤖 **n8n Automation** | ███████░░░ Intermediate |
-| 🦁 **NestJS** | ███████░░░ Intermediate |
+| Area | Tool | Level |
+|------|------|-------|
+| 🐳 Containers | **Docker** | ████████░░ Intermediate |
+| ☁️ Cloud | **AWS / GCP** | ██████░░░░ Intermediate |
+| 🌊 VPS / Hosting | **DigitalOcean / Linux VPS** | ████████░░ Intermediate |
+| 🔁 CI/CD | **GitHub Actions / Pipelines** | ██████░░░░ Basic–Mid |
+| 🤖 Automation | **n8n Workflow Automation** | ███████░░░ Intermediate |
+| 🦁 Framework | **NestJS** | ███████░░░ Intermediate |
  
 </div>
  
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="55%" />
+</div>
  
 ---
  
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="38"> Featured Projects
  
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320"/>
 </div>
  
 <br/>
  
+### 🔥 Live & Shipped
+ 
+| 🚀 Project | 🔧 Stack | 📝 Description | 🔗 Links |
+|-----------|---------|---------------|---------|
+| **AINOS** | NestJS · React · PostgreSQL · Prisma | AI-powered premium platform with payment gateway integration | [![Frontend](https://img.shields.io/badge/Frontend-repo-a78bfa?style=flat-square&logo=github)](https://github.com/shakib5560/AINOS) [![Backend](https://img.shields.io/badge/Backend-repo-7c3aed?style=flat-square&logo=github)](https://github.com/shakib5560/AINOS_API) [![Live](https://img.shields.io/badge/Live-visit-22c55e?style=flat-square&logo=netlify)](https://ainos-premium.netlify.app/) |
+| **Atlania** | Next.js · Node.js · MongoDB | Full-stack platform with modern UI and REST API backend | [![Frontend](https://img.shields.io/badge/Frontend-repo-a78bfa?style=flat-square&logo=github)](https://github.com/shakib5560/Atlania) [![Backend](https://img.shields.io/badge/Backend-repo-7c3aed?style=flat-square&logo=github)](https://github.com/shakib5560/Atlania-API) [![Live](https://img.shields.io/badge/Live-visit-22c55e?style=flat-square&logo=vercel)](https://atlania.vercel.app/) |
+| **GyaanBD** | Next.js · TypeScript · i18n | Knowledge-sharing platform with multi-language support | [![Repo](https://img.shields.io/badge/Repo-GitHub-a78bfa?style=flat-square&logo=github)](https://github.com/shakib5560/gyaanbd.com) [![Live](https://img.shields.io/badge/Live-visit-22c55e?style=flat-square&logo=vercel)](https://gyaanbd.vercel.app) |
+| **ToyGalaxy** | Django · JavaScript | High-traffic eCommerce — 2,000+ daily users | [![Repo](https://img.shields.io/badge/Repo-GitHub-a78bfa?style=flat-square&logo=github)](https://github.com/shakib5560) |
+| **Rinors.com** | Next.js · T3 Stack | Multi-vendor eCommerce platform | [![Repo](https://img.shields.io/badge/Repo-GitHub-a78bfa?style=flat-square&logo=github)](https://github.com/shakib5560) |
+ 
+### 🛠️ In Progress & Experiments
+ 
 | 🚀 Project | 🔧 Stack | 📝 Description |
 |-----------|---------|---------------|
 | **[tubeX](https://github.com/shakib5560/tubeX)** | Node.js · MongoDB | Scalable REST API backend for a video-sharing platform |
-| **ToyGalaxy** | Django · JavaScript | High-traffic eCommerce with 2,000+ daily users |
-| **Rinors.com** | Next.js · T3 Stack | Multi-vendor eCommerce platform |
 | **ServicoBD** | Full-stack · AI | AI-powered service finder |
-| **List-Live** | In Progress | Real-estate listing platform |
-| **FoodSvaly** | React | Food delivery application with full UI & business logic |
+| **List-Live** | React · Node.js | Real-estate listing platform *(in progress)* |
+| **FoodSvaly** | React | Food delivery app with full UI & business logic |
 | **career_z** | C++ · LLM | CLI-based career recommendation system with LLM integration |
  
 <div align="center">
  
-[![Explore More](https://img.shields.io/badge/🔗%20Explore%20All%20Projects-GitHub-%23a78bfa?style=for-the-badge&logo=github)](https://github.com/shakib5560)
+[![Explore All Projects](https://img.shields.io/badge/🔗%20Explore%20All%20Projects-GitHub-%23a78bfa?style=for-the-badge&logo=github)](https://github.com/shakib5560)
  
 </div>
  
@@ -141,7 +153,7 @@ class Shakib:
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> Competitive Programming & DSA
  
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/238353467-b9580a5a-b9f2-490f-b661-d18e0f37d1d3.gif" width="350"/>
+<img src="https://user-images.githubusercontent.com/74038190/238353467-b9580a5a-b9f2-490f-b661-d18e0f37d1d3.gif" width="300"/>
 </div>
  
 <br/>
@@ -187,7 +199,5 @@ class Shakib:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling" width="100%" />
  
 **Thanks for visiting! Drop a ⭐ if you like what you see.**
- 
-![Wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
  
 </div>
