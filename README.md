@@ -85,7 +85,7 @@ class Shakib:
 | 🌊 VPS / Hosting | **DigitalOcean / Linux VPS** | ████████░░ Intermediate |
 | 🔁 CI/CD | **GitHub Actions / Pipelines** | ██████░░░░ Basic–Mid |
 | 🤖 Automation | **n8n Workflow Automation** | ███████░░░ Intermediate |
-| 🦁 Framework | **NestJS** | ███████░░░ Intermediate |
+| 🦁 Framework | **NestJS, Django, ExpressJS, FastAPI, NextJS** | ███████░░░ Intermediate |
  
 </div>
  
