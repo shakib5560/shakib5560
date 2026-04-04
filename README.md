@@ -12,7 +12,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23A78BFA.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://shakibcoder.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-shamiul-834878206/)
 [![Email](https://img.shields.io/badge/Email-dev.shakib%40outlook.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.shakib@outlook.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-%2322c55e?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1vR03EPZxzrd2GBHSK_smDaOXRAhVBOmt/view)
+[![Resume](https://img.shields.io/badge/Resume-Download-%2322c55e?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Nwzp3B4GMGp7as6Z4gmDwIzv0N_r81mC/view?usp=sharing)
  
 <br/>
  
