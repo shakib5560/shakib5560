@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sheikh%20Shamiul%20Shakib&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=62&descSize=18&animation=twinkling" width="100%" />
  
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Full-Stack+Web+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;1.5%2B+Years+Production+Experience;Always+Learning%2C+Always+Shipping+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;AI-Powered+Full-Stack+Development+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;~2+Years+Production+Experience;Always+Learning%2C+Always+Shipping+%F0%9F%94%A5" alt="Typing SVG" />
  
 <br/>
  
@@ -28,22 +28,23 @@
 ```python
 class Shakib:
     name        = "Sheikh Shamiul Shakib"
-    role        = "Junior Software Engineer @ TechonfyIT LTD"
-    location    = "Bangladesh 🇧🇩"
-    experience  = "1.5+ years in production"
- 
-    currently_building = "gyaanbd — LMS System"
-    learning           = ["DSA", "System Design", "Cloud Architecture"]
+    role        = "Backend Software Engineer @ RajTech BD"
+    location    = "Dhaka, Bangladesh 🇧🇩"
+    experience  = "~2 years in production"
+
+    currently_building = "Enterprise-grade AI-powered SaaS platform w/ LLM pipelines"
+    learning           = ["System Design", "Cloud Architecture", "DSA"]
     philosophy         = "Write code that scales, reads well, and solves real problems."
  
     def skills(self):
         return {
+            "languages":  ["Python", "JavaScript", "TypeScript", "C", "C++", "Dart", "SQL"],
             "backend":    ["Django", "DRF", "FastAPI", "Express", "Node.js", "NestJS"],
             "frontend":   ["React", "Next.js", "Redux", "Tailwind CSS"],
-            "devops":     ["Docker", "AWS", "GCP", "VPS", "DigitalOcean", "CI/CD"],
+            "devops":     ["Docker", "Git", "CI/CD (GitHub Actions)", "Linux", "VPS Management", "Cloud Fundamentals"],
             "databases":  ["PostgreSQL", "MySQL", "MongoDB"],
-            "automation": ["n8n Workflow Automation"],
-            "tools":      ["Git", "Postman", "Figma"],
+            "core":       ["API Design & Integration", "System Design", "Caching Strategies", "AI-Assisted Development"],
+            "tools":      ["Git", "Postman", "Figma", "Prisma"],
         }
 ```
  
@@ -55,7 +56,7 @@ class Shakib:
  
 ### 💬 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,dart&theme=dark" />
 </p>
  
 ### 🎨 Frontend
@@ -70,22 +71,22 @@ class Shakib:
  
 ### 🗄️ Databases
 <p>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis&theme=dark" />
 </p>
  
-### ☁️ DevOps, Cloud & Automation
+### ☁️ DevOps & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,figma&theme=dark" />
 </p>
  
 | Area | Tool | Level |
 |------|------|-------|
 | 🐳 Containers | **Docker** | ████████░░ Intermediate |
-| ☁️ Cloud | **AWS / GCP** | ██████░░░░ Intermediate |
-| 🌊 VPS / Hosting | **DigitalOcean / Linux VPS** | ████████░░ Intermediate |
-| 🔁 CI/CD | **GitHub Actions / Pipelines** | ██████░░░░ Basic–Mid |
-| 🤖 Automation | **n8n Workflow Automation** | ███████░░░ Intermediate |
-| 🦁 Framework | **NestJS, Django, ExpressJS, FastAPI, NextJS** | ███████░░░ Intermediate |
+| 🌊 VPS / Hosting | **VPS Management / Linux** | ████████░░ Intermediate |
+| 🔁 CI/CD | **GitHub Actions / Pipelines** | ███████░░░ Intermediate |
+| 🗃️ ORM | **Prisma** | ████████░░ Intermediate |
+| ⚡ Caching | **Redis / Caching Strategies** | ███████░░░ Intermediate |
+| 🦁 Frameworks | **NestJS, Django, ExpressJS, FastAPI, Next.js** | ████████░░ Intermediate–Advanced |
  
 </div>
  
@@ -105,13 +106,14 @@ class Shakib:
  
 ### 🔥 Live & Shipped
  
-| 🚀 Project | 🔧 Stack | 📝 Description | 🔗 Links |
-|-----------|---------|---------------|---------|
-| **AINOS** | NestJS · React · PostgreSQL · Prisma | AI-powered premium platform with payment gateway integration | [![Frontend](https://img.shields.io/badge/Frontend-repo-a78bfa?style=flat-square&logo=github)](https://github.com/shakib5560/AINOS) [![Backend](https://img.shields.io/badge/Backend-repo-7c3aed?style=flat-square&logo=github)](https://github.com/shakib5560/AINOS_API) [![Live](https://img.shields.io/badge/Live-visit-22c55e?style=flat-square&logo=netlify)](https://ainos-premium.netlify.app/) |
-| **Atlania** | Next.js · Node.js · MongoDB | Full-stack platform with modern UI and REST API backend | [![Frontend](https://img.shields.io/badge/Frontend-repo-a78bfa?style=flat-square&logo=github)](https://github.com/shakib5560/Atlania) [![Backend](https://img.shields.io/badge/Backend-repo-7c3aed?style=flat-square&logo=github)](https://github.com/shakib5560/Atlania-API) [![Live](https://img.shields.io/badge/Live-visit-22c55e?style=flat-square&logo=vercel)](https://atlania.vercel.app/) |
-| **GyaanBD** | Next.js · TypeScript · i18n · NestJS · JWT  | Knowledge-sharing platform with multi-language support | [![Repo](https://img.shields.io/badge/Repo-GitHub-a78bfa?style=flat-square&logo=github)](https://github.com/shakib5560/gyaanbd.com) [![Live](https://img.shields.io/badge/Live-visit-22c55e?style=flat-square&logo=vercel)](https://gyaanbd.vercel.app) |
-| **ToyGalaxy** | Django · JavaScript | High-traffic eCommerce — 2,000+ daily users | [![Repo](https://img.shields.io/badge/Repo-GitHub-a78bfa?style=flat-square&logo=github)](https://github.com/shakib5560) [![Live](https://img.shields.io/badge/Live-visit-22c55e?style=flat-square&logo=vercel)](https://www.toygalaxy.com.au/)|
-| **Rinors.com** | Next.js · T3 Stack | Multi-vendor eCommerce platform | [![Repo](https://img.shields.io/badge/Repo-GitHub-a78bfa?style=flat-square&logo=github)](https://github.com/shakib5560) [![Live](https://img.shields.io/badge/Live-visit-22c55e?style=flat-square&logo=vercel)](https://www.rinors.com/) |
+| 🚀 Project | 🔧 Stack | 📝 Description |
+|-----------|---------|---------------|
+| **Idea2System** | NestJS · Docker · PostgreSQL · Redis · Prisma | Multi-stage LLM orchestration pipeline turning product briefs into requirements, ERDs, and API contracts, with a cross-referenced artifact registry |
+| **GitRabbit** | NestJS · Socket.IO · PostgreSQL · Redis · Prisma | Horizontally scalable WebSocket chat system with Redis Pub/Sub, GitHub OAuth 2.0, JWT hybrid sessions, and RBAC |
+| **AINOS** | NestJS · React · PostgreSQL · Prisma | AI-powered premium platform with authentication and payment processing |
+| **Rinors** | Next.js · T3 Stack · TypeScript · Prisma | Type-safe, end-to-end multi-vendor marketplace serving 10,000+ monthly users |
+| **GyaanBD** | Next.js · TypeScript · i18n · NestJS · JWT | Knowledge-sharing platform with multi-language support |
+| **ToyGalaxy** | Django · JavaScript · TailwindCSS | High-traffic eCommerce platform — 1,500+ daily active users |
  
 ### 🛠️ In Progress & Experiments
  
@@ -146,7 +148,7 @@ class Shakib:
  
 ---
  
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> Competitive Programming & DSA
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> Achievements & Competitive Programming
  
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/238353467-b9580a5a-b9f2-490f-b661-d18e0f37d1d3.gif" width="300"/>
@@ -155,9 +157,11 @@ class Shakib:
 <br/>
  
 ```
-🏆 Regional Programming Test — Winner
-✅ HackerRank Certified — Python
- 
+🏆 Regional Programming Contest — Winner (1st among competing teams)
+🎓 Three Minute Thesis (3MT) — Presented "FacePass," a facial authentication
+   model trained for secure web login
+🥇 HackerRank — Gold Badge in Problem Solving; Certified in Python
+
 📘 Currently Practicing:
    ├── Arrays & Strings
    ├── Recursion & Backtracking
