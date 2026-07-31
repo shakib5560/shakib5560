@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-shakib--cv.netlify.app-0f0c29?style=for-the-badge&logo=firefox&logoColor=A78BFA)](https://shakib-cv.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0f0c29?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sheikh-shamiul-834878206/)
 [![Email](https://img.shields.io/badge/Email-dev.shakib%40outlook.com-0f0c29?style=for-the-badge&logo=microsoftoutlook&logoColor=EA4335)](mailto:dev.shakib@outlook.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-0f0c29?style=for-the-badge&logo=googledrive&logoColor=22c55e)](https://drive.google.com/file/d/1Nwzp3B4GMGp7as6Z4gmDwIzv0N_r81mC/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-Download-0f0c29?style=for-the-badge&logo=googledrive&logoColor=22c55e)](https://drive.google.com/file/d/1qow0jClmescT-xLhqZjltETDIVulw0Ka/view?usp=sharing)
 
 </div>
 
