@@ -15,7 +15,7 @@
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cmVjdCB4PSIyIiB5PSI0IiB3aWR0aD0iMjAiIGhlaWdodD0iMTYiIHJ4PSIyIi8+PHBhdGggZD0ibTIyIDYtMTAgN0wyIDYiLz48L3N2Zz4=" width="16" valign="middle"/> &nbsp;<a href="mailto:dev.shakib@outlook.com"><b>dev.shakib@outlook.com</b></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgM3YxMiIvPjxwYXRoIGQ9Im03IDEwIDUgNSA1LTUiLz48cGF0aCBkPSJNNSAyMWgxNCIvPjwvc3ZnPg==" width="16" valign="middle"/> &nbsp;<a href="https://drive.google.com/file/d/1qow0jClmescT-xLhqZjltETDIVulw0Ka/view?usp=sharing"><b>Resume</b></a>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgM3YxMiIvPjxwYXRoIGQ9Im03IDEwIDUgNSA1LTUiLz48cGF0aCBkPSJNNSAyMWgxNCIvPjwvc3ZnPg==" width="16" valign="middle"/> &nbsp;<a href="https://drive.google.com/file/d/1XyG6o6adoV7iJwtvkcGyG-0zfJs8aOf0/view"><b>Resume</b></a>
 </sub>
 
 <br/><br/>
