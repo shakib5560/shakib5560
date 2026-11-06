@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=190&section=header&text=Shamiul%20Shakib&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Backend-Leaning%20Software%20Engineer%20%E2%80%94%20Systems%2C%20Scale%2C%20AI%20Pipelines&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1400&color=A78BFA&center=true&vCenter=true&width=680&lines=Architecting+backend+systems+that+don't+fall+over;Correctness-first%2C+then+speed%2C+then+features;NestJS+%C2%B7+FastAPI+%C2%B7+Django+%C2%B7+PostgreSQL+%C2%B7+Redis;Shipping+for+startups+with+international+clients" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1400&color=A78BFA&center=true&vCenter=true&width=680&lines=Architecting+backend+systems+that+don't+fall+over;Correctness-first%2C+then+speed%2C+then+features;NestJS+%C2%B7+FastAPI+%C2%B7+Django+%C2%B7+PostgreSQL+%C2%B7+Redis;Scaling+backends+to+200K%2B+daily+requests" />
 
 <br/><br/>
 
@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNC41IDE2LjVjLTEuNSAxLjI2LTIgNS0yIDVzMy43NC0uNSA1LTJjLjcxLS44NC43LTIuMTMtLjA5LTIuOTFhMi4xOCAyLjE4IDAgMCAwLTIuOTEtLjA5eiIvPjxwYXRoIGQ9Ik0xMiAxNWwtMy0zYTIyIDIyIDAgMCAxIDItMy45NUExMi44OCAxMi44OCAwIDAgMSAyMiAyYzAgMi43Mi0uNzggNy41LTYgMTFhMjIuMzUgMjIuMzUgMCAwIDEtNCAyeiIvPjxwYXRoIGQ9Ik05IDEySDRzLjU1LTMuMDMgMi00YzEuNjItMS4wOCA1IDAgNSAwIi8+PHBhdGggZD0iTTEyIDE1djVzMy4wMy0uNTUgNC0yYzEuMDgtMS42MiAwLTUgMC01Ii8+PC9zdmc+" width="15" valign="middle"/> &nbsp;Currently building <a href="https://www.gitrabbit.co/"><b>GitRabbit.co</b></a> <sub>— AI code review, V1 tested by 50+ engineering teams</sub>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNC41IDE2LjVjLTEuNSAxLjI2LTIgNS0yIDVzMy43NC0uNSA1LTJjLjcxLS44NC43LTIuMTMtLjA5LTIuOTFhMi4xOCAyLjE4IDAgMCAwLTIuOTEtLjA5eiIvPjxwYXRoIGQ9Ik0xMiAxNWwtMy0zYTIyIDIyIDAgMCAxIDItMy45NUExMi44OCAxMi44OCAwIDAgMSAyMiAyYzAgMi43Mi0uNzggNy41LTYgMTFhMjIuMzUgMjIuMzUgMCAwIDEtNCAyeiIvPjxwYXRoIGQ9Ik05IDEySDRzLjU1LTMuMDMgMi00YzEuNjItMS4wOCA1IDAgNSAwIi8+PHBhdGggZD0iTTEyIDE1djVzMy4wMy0uNTUgNC0yYzEuMDgtMS42MiAwLTUgMC01Ii8+PC9zdmc+" width="15" valign="middle"/> &nbsp;Currently building <a href="https://www.gitrabbit.co/"><b>GitRabbit.co</b></a> <sub>— AI code review, v1 tested by 2,000+ users</sub>
 
 <br/><br/>
 
@@ -33,7 +33,7 @@
 <a name="positioning"></a>
 ## <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwb2x5Z29uIHBvaW50cz0iMTYuMjQgNy43NiAxNC4xMiAxNC4xMiA3Ljc2IDE2LjI0IDkuODggOS44OCAxNi4yNCA3Ljc2Ii8+PC9zdmc+" width="20" valign="middle"/>&nbsp;&nbsp;<code>01</code>&nbsp;Positioning
 
-Software Engineer with **~2 years of production experience** shipping AI-powered, full-stack systems for startups and international product teams. Background bridges a **B.Sc. in Computer Science & Engineering** with a **Diploma in Graphic Design & Software Technology** — engineering rigor with product/design intuition baked in.
+Software Engineer with **2+ years of production experience** building full-stack and AI-powered systems for startups and international clients. Scaled backends to **200K+ daily requests across 8+ services** and cut p95 latency by **79%** (850ms → 180ms). Background bridges a **B.Sc. in Computer Science & Engineering** with a **Diploma in Engineering in Graphic Design & S.T.**: engineering rigor with product and design intuition.
 
 > What breaks first at scale, and how do I design so it doesn't? Money-handling paths get correctness before features. Chat systems get failure-tolerant state before real-time polish. Specs get a single source of truth before code gets written.
 
@@ -46,25 +46,39 @@ Software Engineer with **~2 years of production experience** shipping AI-powered
 
 
 <table>
-<tr><td width="190" valign="top"><b>Jan 2026 – Present</b><br/><sub>Dhaka, Bangladesh</sub></td>
+<tr><td width="190" valign="top"><b>Jun 2026 – Present</b><br/><sub>Dhaka, Bangladesh</sub></td>
 <td>
 
-**Backend Software Engineer** · RajTech BD
-Leading backend for an enterprise-grade AI-powered SaaS platform — modular services, workflow orchestration, and extensible LLM integration pipelines. Built production REST APIs and FastAPI microservices (JWT auth, RBAC, rate limiting, caching, async processing) and scaled the core system on NestJS + TypeScript + PostgreSQL + Prisma, tuning query performance through indexing and caching. Sits directly with international clients translating business requirements into architecture, owning API contracts, CI/CD, and Docker-based deployment.
+**Software Engineer L2** · RajTech BD
+Translate client requirements into scoped project roadmaps, delegate engineering tasks, and orchestrate workflows to ensure on-time delivery.
+
+</td></tr>
+<tr><td valign="top"><b>Jan – Jun 2026</b><br/><sub>Dhaka, Bangladesh</sub></td>
+<td>
+
+**Software Engineer L1** · RajTech BD
+Architected **20+ backend modules** and FastAPI/NestJS microservices (TypeScript, PostgreSQL, Prisma) with JWT and RBAC, handling **200K+ daily requests across 8+ services**. Cut **p95 API latency by 79%** (850ms → 180ms) via N+1 query elimination, composite indexing, and Redis caching, while defining system contracts with global clients.
 
 </td></tr>
 <tr><td valign="top"><b>Feb – Dec 2025</b><br/><sub>Karachi, PK (Remote)</sub></td>
 <td>
 
-**Full-Stack Software Engineer** (Project-Based) · DevNext
-Built high-traffic production applications serving thousands of daily users, including retail platforms like **ToyGalaxy Australia**. Designed backend architecture and data models for scalability and fault tolerance, optimized database access and caching to hold response times steady under growing load, and owned delivery end-to-end with international clients — requirements through post-release optimization.
+**Full-Stack Web Developer (Contract)** · DevNest
+Shipped full-stack features, REST APIs, and checkout flows for **ToyGalaxy** and **Off-White (Contribute)**, a production Django / NestJS / ReactJS e-commerce platform serving **2,500+ DAUs**. Tuned ORM queries, schema indexes, and request validation to keep response times stable during peak traffic.
 
 </td></tr>
-<tr><td valign="top"><b>Apr – Sep 2024</b><br/><sub>Dhaka, Bangladesh</sub></td>
+<tr><td valign="top"><b>Jul – Sep 2024</b><br/><sub>Dhaka, Bangladesh</sub></td>
 <td>
 
-**Web Developer Intern** · Techonfy IT LTD
-Shipped features and resolved bugs across client production applications in an Agile workflow — backend, frontend, database design, API integration, and auth, with early exposure to code review and deployment practice under senior engineers.
+**Full Stack Developer Intern** · Techonfy IT
+Shipped production features and resolved defects across client applications using Django and DRF within an Agile workflow.
+
+</td></tr>
+<tr><td valign="top"><b>Apr – Jun 2024</b><br/><sub>Dhaka, Bangladesh</sub></td>
+<td>
+
+**Web Development Intern** · Techonfy IT
+Built full-stack components, relational schemas, API integrations, and authentication flows using TypeScript and JavaScript.
 
 </td></tr>
 </table>
@@ -85,7 +99,7 @@ Each of these solves one hard problem, not a checklist of features.
 ### <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNC41IDE2LjVjLTEuNSAxLjI2LTIgNS0yIDVzMy43NC0uNSA1LTJjLjcxLS44NC43LTIuMTMtLjA5LTIuOTFhMi4xOCAyLjE4IDAgMCAwLTIuOTEtLjA5eiIvPjxwYXRoIGQ9Ik0xMiAxNWwtMy0zYTIyIDIyIDAgMCAxIDItMy45NUExMi44OCAxMi44OCAwIDAgMSAyMiAyYzAgMi43Mi0uNzggNy41LTYgMTFhMjIuMzUgMjIuMzUgMCAwIDEtNCAyeiIvPjxwYXRoIGQ9Ik05IDEySDRzLjU1LTMuMDMgMi00YzEuNjItMS4wOCA1IDAgNSAwIi8+PHBhdGggZD0iTTEyIDE1djVzMy4wMy0uNTUgNC0yYzEuMDgtMS42MiAwLTUgMC01Ii8+PC9zdmc+" width="22" valign="middle"/>&nbsp;&nbsp;GitRabbit.co &nbsp;<sub>· Flagship — Technical Founder, 2026–Present</sub>
 `NestJS` `FastAPI` `Fastify` `PostgreSQL` `Redis` `Docker` `Nginx` `OpenAI` `Anthropic`
 
-AI-powered code review and code-intelligence SaaS that reviews changes with full repository context — architecture, dependencies, and framework conventions, not just the diff. A microservices architecture with isolated databases and independently deployable services keeps blast radius small as the platform grows. AI/LLM infrastructure integrates OpenAI and Anthropic through async FastAPI services with persistent conversation state, automated migrations, and cross-service request handling — architecture, backend, AI orchestration, infra, and roadmap owned end-to-end.
+AI-powered code review and code-intelligence SaaS targeting gaps in the **$420M+ AI code review market**. It parses client requirements and project context, then verifies whether AI-agent-written code aligns with intended specs. It also surfaces architectural risks, dependency conflicts, and high-impact changes across repos, beyond line-level diffs. **v1 MVP validated with 2,000+ users** (CSE students and SWE professionals, BUBT community), with that feedback driving the v2 architecture. Microservices with isolated databases keep blast radius small; OpenAI and Anthropic are integrated through async FastAPI services.
 
 <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48bGluZSB4MT0iNyIgeTE9IjE3IiB4Mj0iMTciIHkyPSI3Ii8+PHBvbHlsaW5lIHBvaW50cz0iNyA3IDE3IDcgMTcgMTciLz48L3N2Zz4=" width="13" valign="middle"/> [`Live`](https://www.gitrabbit.co/) &nbsp;<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48bGluZSB4MT0iNyIgeTE9IjE3IiB4Mj0iMTciIHkyPSI3Ii8+PHBvbHlsaW5lIHBvaW50cz0iNyA3IDE3IDcgMTcgMTciLz48L3N2Zz4=" width="13" valign="middle"/> [`Source`](https://github.com/shakib5560/gitrabbit2.0) &nbsp;<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48bGluZSB4MT0iNyIgeTE9IjE3IiB4Mj0iMTciIHkyPSI3Ii8+PHBvbHlsaW5lIHBvaW50cz0iNyA3IDE3IDcgMTcgMTciLz48L3N2Zz4=" width="13" valign="middle"/> [`Case Study`](https://shamiulshakib.me/projects/gitrabbit)
 
@@ -98,14 +112,26 @@ AI-powered code review and code-intelligence SaaS that reviews changes with full
 <tr>
 <td width="50%" valign="top">
 
+### <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cmVjdCB4PSI0IiB5PSI0IiB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHJ4PSIyIi8+PHJlY3QgeD0iOSIgeT0iOSIgd2lkdGg9IjYiIGhlaWdodD0iNiIvPjxwYXRoIGQ9Ik05IDF2M00xNSAxdjNNOSAyMHYzTTE1IDIwdjNNMjAgOWgzTTIwIDE0aDNNMSA5aDNNMSAxNGgzIi8+PC9zdmc+" width="20" valign="middle"/>&nbsp;&nbsp;AutoTaskX
+`Next.js` `FastAPI` `TimescaleDB` `Redis` `AWS`
+
+An industrial IoT platform unifying dye-color formulation, defect grading, and machine telemetry. A Kubelka-Munk/NNLS engine plus Redis Pub/Sub delivers **sub-25ms real-time broadcasting**, cutting lab dye trials by **60%**.
+
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48bGluZSB4MT0iNyIgeTE9IjE3IiB4Mj0iMTciIHkyPSI3Ii8+PHBvbHlsaW5lIHBvaW50cz0iNyA3IDE3IDcgMTcgMTciLz48L3N2Zz4=" width="13" valign="middle"/> [`Case Study`](https://shamiulshakib.me/projects/autotaskx)
+
+</td>
+<td width="50%" valign="top">
+
 ### <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxOCIgY3k9IjE4IiByPSIzIi8+PGNpcmNsZSBjeD0iNiIgY3k9IjYiIHI9IjMiLz48cGF0aCBkPSJNNiA5djZhMyAzIDAgMCAwIDMgM2g2Ii8+PHBhdGggZD0iTTE4IDlWNiIvPjwvc3ZnPg==" width="20" valign="middle"/>&nbsp;&nbsp;Idea2System
 `NestJS` `Docker` `PostgreSQL` `Redis` `Prisma`
 
-A multi-stage LLM orchestration pipeline that decomposes ambiguous product briefs into requirements, ERDs, architecture, and API contracts — while preserving semantic intent so downstream artifacts never drift from the original ask. Ships with a centralized artifact registry that cross-validates specs against endpoints and docs, packaged into reproducible multi-stage Docker builds.
+An AI-driven backend that orchestrates multi-stage LLM chains to auto-generate ERDs, architectures, and API contracts, with containerized REST APIs and schema cross-validation for structural consistency.
 
 <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48bGluZSB4MT0iNyIgeTE9IjE3IiB4Mj0iMTciIHkyPSI3Ii8+PHBvbHlsaW5lIHBvaW50cz0iNyA3IDE3IDcgMTcgMTciLz48L3N2Zz4=" width="13" valign="middle"/> [`Source`](https://github.com/shakib5560/Idea2System) &nbsp;<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48bGluZSB4MT0iNyIgeTE9IjE3IiB4Mj0iMTciIHkyPSI3Ii8+PHBvbHlsaW5lIHBvaW50cz0iNyA3IDE3IDcgMTcgMTciLz48L3N2Zz4=" width="13" valign="middle"/> [`API`](https://github.com/shakib5560/Idea2System-API-V2.0) &nbsp;<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48bGluZSB4MT0iNyIgeTE9IjE3IiB4Mj0iMTciIHkyPSI3Ii8+PHBvbHlsaW5lIHBvaW50cz0iNyA3IDE3IDcgMTcgMTciLz48L3N2Zz4=" width="13" valign="middle"/> [`Case Study`](https://shamiulshakib.me/projects/idea2system)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgMjJzOC00IDgtMTBWNWwtOC0zLTggM3Y3YzAgNiA4IDEwIDggMTB6Ii8+PHBvbHlsaW5lIHBvaW50cz0iOSAxMiAxMSAxNCAxNSAxMCIvPjwvc3ZnPg==" width="20" valign="middle"/>&nbsp;&nbsp;AINOS
@@ -116,30 +142,28 @@ An AI-powered premium platform with authentication and payment processing, where
 <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48bGluZSB4MT0iNyIgeTE9IjE3IiB4Mj0iMTciIHkyPSI3Ii8+PHBvbHlsaW5lIHBvaW50cz0iNyA3IDE3IDcgMTcgMTciLz48L3N2Zz4=" width="13" valign="middle"/> [`Live`](https://ainos-premium.netlify.app/) &nbsp;<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48bGluZSB4MT0iNyIgeTE9IjE3IiB4Mj0iMTciIHkyPSI3Ii8+PHBvbHlsaW5lIHBvaW50cz0iNyA3IDE3IDcgMTcgMTciLz48L3N2Zz4=" width="13" valign="middle"/> [`Frontend`](https://github.com/shakib5560/AINOS) &nbsp;<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48bGluZSB4MT0iNyIgeTE9IjE3IiB4Mj0iMTciIHkyPSI3Ii8+PHBvbHlsaW5lIHBvaW50cz0iNyA3IDE3IDcgMTcgMTciLz48L3N2Zz4=" width="13" valign="middle"/> [`API`](https://github.com/shakib5560/AINOS_API) &nbsp;<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48bGluZSB4MT0iNyIgeTE9IjE3IiB4Mj0iMTciIHkyPSI3Ii8+PHBvbHlsaW5lIHBvaW50cz0iNyA3IDE3IDcgMTcgMTciLz48L3N2Zz4=" width="13" valign="middle"/> [`Case Study`](https://shamiulshakib.me/projects/ainos)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNiAyIDMgNnYxNGEyIDIgMCAwIDAgMiAyaDE0YTIgMiAwIDAgMCAyLTJWNmwtMy00WiIvPjxwYXRoIGQ9Ik0zIDZoMTgiLz48cGF0aCBkPSJNMTYgMTBhNCA0IDAgMCAxLTggMCIvPjwvc3ZnPg==" width="20" valign="middle"/>&nbsp;&nbsp;Rinors
 `Next.js` `T3 Stack` `TypeScript` `Prisma`
 
-A type-safe, end-to-end multi-vendor marketplace serving 10,000+ monthly users, treating the database schema as the single source of truth all the way to the UI. The T3 standardization call traded a little short-term velocity for long-term maintainability — one that kept integration bugs low as both vendor base and codebase scaled.
+A high-traffic, type-safe multi-vendor marketplace serving **10,000+ monthly users**, with end-to-end type-safe tRPC APIs and modular schemas for faster dev velocity. The T3 standardization call traded a little short-term velocity for long-term maintainability, keeping integration bugs low as both vendor base and codebase scaled.
 
 <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48bGluZSB4MT0iNyIgeTE9IjE3IiB4Mj0iMTciIHkyPSI3Ii8+PHBvbHlsaW5lIHBvaW50cz0iNyA3IDE3IDcgMTcgMTciLz48L3N2Zz4=" width="13" valign="middle"/> [`Live`](https://www.rinors.com/) &nbsp;<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48bGluZSB4MT0iNyIgeTE9IjE3IiB4Mj0iMTciIHkyPSI3Ii8+PHBvbHlsaW5lIHBvaW50cz0iNyA3IDE3IDcgMTcgMTciLz48L3N2Zz4=" width="13" valign="middle"/> [`Case Study`](https://shamiulshakib.me/projects/rinors)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMjEgMTZWOGEyIDIgMCAwIDAtMS0xLjczbC03LTRhMiAyIDAgMCAwLTIgMGwtNyA0QTIgMiAwIDAgMCAzIDh2OGEyIDIgMCAwIDAgMSAxLjczbDcgNGEyIDIgMCAwIDAgMiAwbDctNEEyIDIgMCAwIDAgMjEgMTZ6Ii8+PHBvbHlsaW5lIHBvaW50cz0iMy4yNyA2Ljk2IDEyIDEyLjAxIDIwLjczIDYuOTYiLz48bGluZSB4MT0iMTIiIHkxPSIyMi4wOCIgeDI9IjEyIiB5Mj0iMTIiLz48L3N2Zz4=" width="20" valign="middle"/>&nbsp;&nbsp;ToyGalaxy
 `Django` `JavaScript` `Tailwind CSS`
 
-Backend and performance owner for a Django e-commerce platform in production for **1,500+ daily active users** — tuning query plans and asset delivery to hold load times steady as traffic grew, and hardening validation against real-world traffic edge cases to cut production incidents.
+Backend services for a production Django e-commerce platform serving **2,500+ DAU**. Optimized ORM queries and schema indexing to cut latency and keep the site stable under traffic spikes.
 
 <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48bGluZSB4MT0iNyIgeTE9IjE3IiB4Mj0iMTciIHkyPSI3Ii8+PHBvbHlsaW5lIHBvaW50cz0iNyA3IDE3IDcgMTcgMTciLz48L3N2Zz4=" width="13" valign="middle"/> [`Live`](https://www.toygalaxy.com.au/) &nbsp;<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48bGluZSB4MT0iNyIgeTE9IjE3IiB4Mj0iMTciIHkyPSI3Ii8+PHBvbHlsaW5lIHBvaW50cz0iNyA3IDE3IDcgMTcgMTciLz48L3N2Zz4=" width="13" valign="middle"/> [`Source`](https://github.com/shakib5560/ToyGalaxy) &nbsp;<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48bGluZSB4MT0iNyIgeTE9IjE3IiB4Mj0iMTciIHkyPSI3Ii8+PHBvbHlsaW5lIHBvaW50cz0iNyA3IDE3IDcgMTcgMTciLz48L3N2Zz4=" width="13" valign="middle"/> [`Case Study`](https://shamiulshakib.me/projects/toygalaxy)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMiAzaDZhNCA0IDAgMCAxIDQgNHYxNGEzIDMgMCAwIDAtMy0zSDJ6Ii8+PHBhdGggZD0iTTIyIDNoLTZhNCA0IDAgMCAwLTQgNHYxNGEzIDMgMCAwIDEgMy0zaDd6Ii8+PC9zdmc+" width="20" valign="middle"/>&nbsp;&nbsp;GyaanBD
@@ -150,7 +174,6 @@ A multi-language knowledge-sharing platform built for reach from day one — int
 <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48bGluZSB4MT0iNyIgeTE9IjE3IiB4Mj0iMTciIHkyPSI3Ii8+PHBvbHlsaW5lIHBvaW50cz0iNyA3IDE3IDcgMTcgMTciLz48L3N2Zz4=" width="13" valign="middle"/> [`Live`](https://gyaanbd.vercel.app) &nbsp;<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48bGluZSB4MT0iNyIgeTE9IjE3IiB4Mj0iMTciIHkyPSI3Ii8+PHBvbHlsaW5lIHBvaW50cz0iNyA3IDE3IDcgMTcgMTciLz48L3N2Zz4=" width="13" valign="middle"/> [`Source`](https://github.com/shakib5560/gyaanbd.com) &nbsp;<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48bGluZSB4MT0iNyIgeTE9IjE3IiB4Mj0iMTciIHkyPSI3Ii8+PHBvbHlsaW5lIHBvaW50cz0iNyA3IDE3IDcgMTcgMTciLz48L3N2Zz4=" width="13" valign="middle"/> [`API`](https://github.com/shakib5560/gyaanbd_API-)
 
 </td>
-<td width="50%" valign="top"></td>
 </tr>
 </table>
 
@@ -182,17 +205,20 @@ A multi-language knowledge-sharing platform built for reach from day one — int
 <table><tr><td align="center" width="88"><img src="https://cdn.simpleicons.org/python/A78BFA" width="30" height="30"/><br/><sub>Python</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/javascript/A78BFA" width="30" height="30"/><br/><sub>JavaScript</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/typescript/A78BFA" width="30" height="30"/><br/><sub>TypeScript</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/c/A78BFA" width="30" height="30"/><br/><sub>C</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/cplusplus/A78BFA" width="30" height="30"/><br/><sub>C++</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/dart/A78BFA" width="30" height="30"/><br/><sub>Dart</sub></td></tr></table>
 
 <sub><b>Backend & APIs</b></sub><br/>
-<table><tr><td align="center" width="88"><img src="https://cdn.simpleicons.org/nestjs/A78BFA" width="30" height="30"/><br/><sub>NestJS</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/fastapi/A78BFA" width="30" height="30"/><br/><sub>FastAPI</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/django/A78BFA" width="30" height="30"/><br/><sub>Django</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/nodedotjs/A78BFA" width="30" height="30"/><br/><sub>Node.js</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/express/A78BFA" width="30" height="30"/><br/><sub>Express</sub></td></tr></table>
+<table><tr><td align="center" width="88"><img src="https://cdn.simpleicons.org/nestjs/A78BFA" width="30" height="30"/><br/><sub>NestJS</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/fastapi/A78BFA" width="30" height="30"/><br/><sub>FastAPI</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/django/A78BFA" width="30" height="30"/><br/><sub>Django</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/nodedotjs/A78BFA" width="30" height="30"/><br/><sub>Node.js</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/express/A78BFA" width="30" height="30"/><br/><sub>Express</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/graphql/A78BFA" width="30" height="30"/><br/><sub>GraphQL</sub></td></tr></table>
 
 <sub><b>Frontend</b></sub><br/>
 <table><tr><td align="center" width="88"><img src="https://cdn.simpleicons.org/react/A78BFA" width="30" height="30"/><br/><sub>React</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/nextdotjs/A78BFA" width="30" height="30"/><br/><sub>Next.js</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/redux/A78BFA" width="30" height="30"/><br/><sub>Redux</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/tailwindcss/A78BFA" width="30" height="30"/><br/><sub>Tailwind</sub></td></tr></table>
 
-<sub><b>Data & Infra</b></sub><br/>
-<table><tr><td align="center" width="88"><img src="https://cdn.simpleicons.org/postgresql/A78BFA" width="30" height="30"/><br/><sub>PostgreSQL</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/mysql/A78BFA" width="30" height="30"/><br/><sub>MySQL</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/mongodb/A78BFA" width="30" height="30"/><br/><sub>MongoDB</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/redis/A78BFA" width="30" height="30"/><br/><sub>Redis</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/docker/A78BFA" width="30" height="30"/><br/><sub>Docker</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/git/A78BFA" width="30" height="30"/><br/><sub>Git</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/linux/A78BFA" width="30" height="30"/><br/><sub>Linux</sub></td></tr></table>
+<sub><b>Data</b></sub><br/>
+<table><tr><td align="center" width="88"><img src="https://cdn.simpleicons.org/postgresql/A78BFA" width="30" height="30"/><br/><sub>PostgreSQL</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/prisma/A78BFA" width="30" height="30"/><br/><sub>Prisma</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/redis/A78BFA" width="30" height="30"/><br/><sub>Redis</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/mongodb/A78BFA" width="30" height="30"/><br/><sub>MongoDB</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/mysql/A78BFA" width="30" height="30"/><br/><sub>MySQL</sub></td></tr></table>
+
+<sub><b>Cloud & DevOps</b></sub><br/>
+<table><tr><td align="center" width="88"><img src="https://cdn.simpleicons.org/amazonwebservices/A78BFA" width="30" height="30"/><br/><sub>AWS</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/docker/A78BFA" width="30" height="30"/><br/><sub>Docker</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/githubactions/A78BFA" width="30" height="30"/><br/><sub>GitHub Actions</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/nginx/A78BFA" width="30" height="30"/><br/><sub>Nginx</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/cloudflare/A78BFA" width="30" height="30"/><br/><sub>Cloudflare</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/git/A78BFA" width="30" height="30"/><br/><sub>Git</sub></td><td align="center" width="88"><img src="https://cdn.simpleicons.org/linux/A78BFA" width="30" height="30"/><br/><sub>Linux</sub></td></tr></table>
 
 </div>
 
-**Core concepts:** `API design & integration` `System design` `Database design` `Caching strategies` `Data structures & algorithms` `AI-assisted development`
+**Core concepts:** `API design` `System design` `Microservices` `JWT & RBAC` `Caching strategies` `Multi-agentic workflows` `Context engineering` `RAG` `Vector databases`
 
 <br/>
 
@@ -221,16 +247,19 @@ A multi-language knowledge-sharing platform built for reach from day one — int
 <tr><td width="55%" valign="top">
 
 **Bangladesh University of Business & Technology (BUBT)**
-B.Sc. Computer Science & Engineering · CGPA 3.43/4.00 · 2023–Present
+B.Sc. Computer Science & Engineering · CGPA 3.43/4.00 · Jun 2023 – Nov 2026
 *DSA · System Design · DBMS · OS · Networking · OOP · Software Engineering*
 
-**Graphic Arts Institute (GAI)**
-Diploma in Engineering, Graphic Design & Software Technology · CGPA 3.60/4.00 · 2020–2023
+**Government Graphic Arts Institute**
+Diploma in Engineering, Graphic Design & S.T. · CGPA 3.60/4.00 · 2020–2023
 *Product Design · UI/UX · Figma · Web Dev (React, Node.js, Django)*
+
+**Baharpur High School**
+Secondary School Certificate (SSC), Science · GPA 4.93/5.00 · 2020
 
 </td><td width="45%" valign="top">
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNOCAyMWg4Ii8+PHBhdGggZD0iTTEyIDE3djQiLz48cGF0aCBkPSJNNyA0aDEwdjVhNSA1IDAgMCAxLTEwIDB6Ii8+PHBhdGggZD0iTTcgNkg0YTMgMyAwIDAgMCAzIDQiLz48cGF0aCBkPSJNMTcgNmgzYTMgMyAwIDAgMS0zIDQiLz48L3N2Zz4=" width="16" valign="middle"/> &nbsp;**Regional Programming Contest** — 1st place
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNOCAyMWg4Ii8+PHBhdGggZD0iTTEyIDE3djQiLz48cGF0aCBkPSJNNyA0aDEwdjVhNSA1IDAgMCAxLTEwIDB6Ii8+PHBhdGggZD0iTTcgNkg0YTMgMyAwIDAgMCAzIDQiLz48cGF0aCBkPSJNMTcgNmgzYTMgMyAwIDAgMS0zIDQiLz48L3N2Zz4=" width="16" valign="middle"/> &nbsp;**Regional Business Innovation Challenge 2023**: 1st place, for an algorithmic approach to controlling chemical reactions
 <br/><br/><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMiAzaDIwIi8+PHBhdGggZD0iTTQgM3YxM2ExIDEgMCAwIDAgMSAxaDVsLTEgNGg2bC0xLTRoNWExIDEgMCAwIDAgMS0xVjMiLz48L3N2Zz4=" width="16" valign="middle"/> &nbsp;**Three Minute Thesis (3MT)** — presented *FacePass*, a facial-authentication model for secure web login
 <br/><br/><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjEuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjgiIHI9IjYiLz48cGF0aCBkPSJNMTUuNSAxMy41IDE3IDIybC01LTMtNSAzIDEuNS04LjUiLz48L3N2Zz4=" width="16" valign="middle"/> &nbsp;**HackerRank** — Gold Badge, Problem Solving; [Certified in Python](https://www.hackerrank.com/certificates/iframe/e073e1e4f0ee)
 
